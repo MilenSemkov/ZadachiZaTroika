@@ -21,9 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevetaZadacha", "DevetaZada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesetaZadacha", "DesetaZadacha\DesetaZadacha.csproj", "{B672518F-F195-471B-8C5E-E32CC31EFBB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvanaistaZadacha", "..\..\..\Desktop\Zadachi\DvanaistaZadacha\DvanaistaZadacha.csproj", "{16A12A21-A37E-49A4-9303-4549318A1406}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvanaistaZadacha","\Desktop\Zadachi\DvanaistaZadacha\DvanaistaZadacha.csproj", "{16A12A21-A37E-49A4-9303-4549318A1406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdinaistaZadacha", "..\..\..\Desktop\Zadachi\EdinaistaZadacha\EdinaistaZadacha.csproj", "{C4936A12-AD37-4A25-8824-436005EF0234}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdinaistaZadacha", "\Desktop\Zadachi\EdinaistaZadacha\EdinaistaZadacha.csproj", "{C4936A12-AD37-4A25-8824-436005EF0234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
