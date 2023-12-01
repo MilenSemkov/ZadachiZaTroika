@@ -1,0 +1,7 @@
+C:\mixa\DvanaistaZadacha\bin\Debug\DvanaistaZadacha.exe.config
+C:\mixa\DvanaistaZadacha\bin\Debug\DvanaistaZadacha.exe
+C:\mixa\DvanaistaZadacha\bin\Debug\DvanaistaZadacha.pdb
+C:\mixa\DvanaistaZadacha\obj\Debug\DvanaistaZadacha.csproj.AssemblyReference.cache
+C:\mixa\DvanaistaZadacha\obj\Debug\DvanaistaZadacha.csproj.CoreCompileInputs.cache
+C:\mixa\DvanaistaZadacha\obj\Debug\DvanaistaZadacha.exe
+C:\mixa\DvanaistaZadacha\obj\Debug\DvanaistaZadacha.pdb
